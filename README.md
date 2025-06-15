@@ -42,5 +42,5 @@ git push -u origin main
 
 The app will be deployed to [AWS Amplify](https://aws.amazon.com/amplify/) in the region `eu-central-1` using the cli profile `nlu-sks`.
 
-<https://946997026676.eu-central-1.console.aws.amazon.com/amplify/apps/d51sxtw2jxfum/overview/>
-<https://main.d51sxtw2jxfum.amplifyapp.com/>
+<https://946997026676.eu-central-1.console.aws.amazon.com/amplify/apps/d135b2a3jttuoq/branches/main/deployments/>
+<https://main.d135b2a3jttuoq.amplifyapp.com/>
