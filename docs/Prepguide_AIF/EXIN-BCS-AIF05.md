@@ -9,7 +9,10 @@ sidebar_position: 5
 Artificial Intelligence (AI) offers numerous opportunities for organizations to innovate, improve efficiency, and gain a competitive edge. Identifying where and how to apply AI is the first step toward a successful implementation. This section will guide you through the process of recognizing potential AI use cases within your organization.
 
 ### 5.1 Identify Opportunities for AI in Your Organization
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s1_Stephen.cbcd6da8-c1db-41cf-8523-e67d33230e34.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 In today's rapidly evolving technological landscape, Artificial Intelligence (AI) has emerged as a pivotal tool for enhancing efficiency and productivity within organizations. Understanding and identifying opportunities for AI implementation can significantly benefit any business. This section will guide you through recognizing potential areas where AI can be integrated into your organization, focusing on automation, repetitive tasks, and content creation through generative AI.
 
 #### Opportunities for Automation
@@ -43,7 +46,10 @@ Identifying opportunities for AI in your organization can lead to significant im
 By understanding and implementing these AI strategies, you can transform your organization, making it more efficient and forward-thinking. Remember, the goal is to enhance human capabilities, not replace them, by allowing AI to handle mundane and repetitive tasks. This will empower your team to focus on what truly matters: driving growth and innovation.
 
 ### 5.2 Understanding the Contents and Structure of a Business Case
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s2_Danielle.a5339d34-94d7-44ac-8d3d-2ee85a50b4cf.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 A business case is a crucial document used to justify the initiation of a project or initiative. It provides a detailed rationale, including the benefits, costs, and risks, to help decision-makers determine whether to proceed. Familiarity with the structure and contents of a business case is essential for anyone involved in project management or business development.
 
 #### Introduction
@@ -97,7 +103,10 @@ Appendices provide the necessary backup to substantiate the claims made in the b
 A well-structured business case is vital for securing funding and approval for projects. It should include an introduction, executive summary, description of the current state, detailed analysis of options, clear recommendations, and supporting appendices. Each section plays a critical role in providing decision-makers with the information they need to make informed choices. Understanding and effectively utilizing this structure will enhance your ability to advocate for and manage successful projects.
 
 ### 5.3 Identify and categorize stakeholders relevant to an AI project
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s3_Ruth.11cbe56b-a00b-4983-844b-78c3c2f3b8bc.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Understanding and Categorizing Stakeholders in an AI Project
 
 In the realm of project management, especially for Artificial Intelligence (AI) projects, it is crucial to identify and categorize stakeholders. Stakeholders are individuals or groups who have an interest in or are affected by the project. Proper stakeholder management ensures that the project runs smoothly and meets its objectives.
@@ -152,7 +161,10 @@ In conclusion, stakeholder identification and categorization are foundational st
 By mastering these techniques, you can ensure that your project not only meets its technical goals but also satisfies the needs and expectations of all involved parties. This holistic approach is key to the long-term success and sustainability of AI projects.
 
 ### 5.4 Describe project management approaches
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s4_Stephen.b842d442-efc3-4d3f-8580-d50478024359.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Project management is a crucial skill in various fields, including software development, construction, and marketing. It involves planning, organizing, and managing resources to bring about the successful completion of specific project goals and objectives. Different projects may require different management approaches. In this section, we will explore three primary project management methodologies: Agile, Waterfall, and Hybrid. Each of these approaches has unique characteristics and is suitable for different types of projects.
 
 #### Agile
@@ -194,7 +206,10 @@ Understanding different project management approaches is essential for selecting
 By recognizing the characteristics and suitability of these methodologies, you can make informed decisions that enhance the likelihood of project success. Always consider the specific needs and constraints of your project when choosing a management approach.
 
 ### 5.5 Identify the risks, costs and benefits associated with a proposed solution
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s5_Ruth.76ea604c-18b7-40c6-bdc6-3eb8fab5536a.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 When considering the implementation of a new project or solution, especially one involving advanced technologies like Artificial Intelligence (AI), it is crucial to thoroughly evaluate the associated risks, costs, and benefits. This process ensures that the project aligns with the organization's goals and risk tolerance, and that it provides value in both financial and socio-economic terms.
 
 #### Risk Analysis
@@ -260,7 +275,10 @@ By systematically evaluating these factors, organizations can make informed deci
 ISO 42001 provides a practical framework for integrating and utilizing AI within organizations.
 
 ### 5.6 Describe the ongoing governance activities required when implementing AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m5_s6_Matthew.a95815b7-d9e0-4faf-ba41-4eb18de3e009.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Implementing Artificial Intelligence (AI) in any organization is not just about developing and deploying models. It also involves ongoing governance activities to ensure that AI systems operate effectively, ethically, and within legal boundaries. Governance in AI is a multifaceted process that includes compliance, risk management, and lifecycle governance.
 
 #### Compliance

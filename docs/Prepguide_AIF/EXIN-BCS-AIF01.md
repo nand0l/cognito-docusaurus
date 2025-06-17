@@ -9,6 +9,10 @@ sidebar_position: 1
 Welcome to the fascinating world of Artificial Intelligence (AI)! This module aims to provide you with a foundational understanding of AI and its related concepts. Whether you're new to the subject or looking to deepen your knowledge, we'll break down complex terms and ideas into simple, digestible pieces. Let's embark on this journey to explore the building blocks of AI.
 
 ### 1.1 Identify the key definitions of key AI terms
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/temp-Joanna.d8c27e20-50e2-489b-8741-a7ee553cca26.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 
 #### Key Definitions of AI Terms
 
@@ -72,7 +76,10 @@ As you continue your studies, remember that AI is a rapidly evolving domain. Sta
 Feel free to revisit these definitions as you progress. They will serve as a solid foundation for more advanced topics in artificial intelligence. Happy learning!
 
 ### 1.2 describe key milestones in the development of AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/temp-Danielle.7cb6b06c-6525-401d-8de0-f061dd68e164.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 Artificial Intelligence (AI) has grown from a niche area of computer science to a transformative technology impacting various sectors. Understanding its development helps us appreciate the current capabilities and future potential of AI. This article explores significant milestones in AI's evolution, explaining key concepts in simple terms.
@@ -126,7 +133,10 @@ As we continue to explore AI's potential, it is essential to remain mindful of i
 By understanding these milestones, students can better appreciate the complexities and opportunities within the field of AI, preparing them for future advancements and challenges.
 
 ### 1.3 describe different types of AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/temp-Ruth.1e5cc983-5ce6-47c9-bd08-719ea801b8eb.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Artificial Intelligence (AI) is a rapidly evolving field with various types and classifications. This module will explore the different types of AI, focusing on their capabilities, limitations, and potential future developments. Understanding these types is crucial for grasping the current state and future possibilities of AI technology.
 
 #### Narrow/Weak AI (ANI – Artificial Narrow Intelligence)
@@ -221,7 +231,10 @@ Self-Aware AI is a speculative concept where AI possesses its own consciousness,
 Understanding the different types of AI helps us appreciate the current capabilities and future potential of this technology. From Narrow AI, which excels in specific tasks, to the theoretical concepts of AGI, ASI, and beyond, each type represents a step in the evolution of AI. As we continue to explore and develop AI, it is essential to consider the ethical implications and ensure that these advancements benefit society as a whole.
 
 ### 1.4 Explain the impact of AI on Society
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/temp-Matthew.949e92dd-7452-4c55-b98b-fc052ab3e825.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 Artificial Intelligence (AI) is transforming our world in numerous ways. It is essential to understand its impact on society, including ethical considerations, social changes, economic effects, and environmental implications. This module will explore these aspects in detail, providing a comprehensive understanding of how AI is shaping our future.
@@ -268,7 +281,10 @@ To ensure that AI development and deployment align with societal values and sust
 Understanding the impact of AI on society is crucial for students as they prepare to enter a world increasingly shaped by these technologies. By considering ethical principles, social changes, economic effects, and environmental implications, we can ensure that AI is developed and used in a way that benefits everyone. As you continue your studies, reflect on how AI might influence your future career and the broader society, and consider how you can contribute to its responsible development and application.
 
 ### 1.5 Sustainability Measures to Reduce AI’s Environmental Impact
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/temp-Stephen.29d06f90-3dd1-437f-9a99-8ad4f88d3fea.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Artificial Intelligence (AI) is transforming various sectors, from healthcare to transportation. However, the rapid growth of AI also brings significant environmental challenges. To address these issues, it is crucial to implement sustainability measures that reduce AI's environmental impact. This module explores six key strategies to make AI more eco-friendly.
 
 #### Green IT Initiatives

@@ -9,7 +9,10 @@ sidebar_position: 4
 In today's digital age, data is a crucial asset. It helps businesses make informed decisions, scientists discover new phenomena, and governments improve public services. However, to effectively use data, it's essential to understand some key terms. This article will explain these terms in a clear and straightforward manner.
 
 ### 4.1 Describe key data terms
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s1_Ruth.9481fddd-dc05-4769-a85f-5f1c217e77f5.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Big Data
 
 **Big Data** refers to extremely large data sets that can be analyzed using computers to uncover patterns, trends, and associations. Imagine collecting information from millions of social media posts, online transactions, or sensor readings from smart devices. These vast amounts of data are what we call Big Data. Analyzing Big Data can help organizations understand customer behavior, predict market trends, and make strategic decisions.
@@ -56,7 +59,10 @@ Understanding these key data terms is essential for anyone working with data. **
 By familiarizing yourself with these terms, you'll be better equipped to navigate the world of data and make the most of the information available to you. Whether you're a student, a professional, or just someone curious about data, these concepts are fundamental to your journey.
 
 ### 4.2 Describe the characteristics of data quality and why it is important in AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s2_Ruth.e01ed24d-e503-40e2-ae53-57cba5742b70.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 In the realm of Artificial Intelligence (AI), data quality is paramount. High-quality data is the backbone of effective AI systems, ensuring that the outcomes are reliable and actionable. This article delves into the five essential characteristics of data quality and underscores their significance in AI applications.
 
 #### Five data quality characteristics
@@ -109,7 +115,10 @@ Understanding and maintaining data quality is crucial for the success of AI appl
 As we conclude, remember that the integrity of AI systems heavily depends on the quality of the data they are trained on. By prioritizing data quality, we can ensure that AI technologies deliver accurate, fair, and reliable outcomes, ultimately driving better decisions and fostering innovation. Always strive for high standards in data management to harness the full potential of AI.
 
 ### 4.3 Explain the risks associated with handling data in AI and how to minimize them
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s3_Danielle.f804525c-4d96-44e0-b51c-8217b8080863.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 In the realm of Artificial Intelligence (AI), data is a crucial asset. It fuels the algorithms and models that enable AI to perform tasks ranging from simple recommendations to complex decision-making processes. However, handling data in AI comes with its own set of risks. This article aims to explain these risks and provide strategies to minimize them, ensuring that AI systems are robust, fair, and compliant with legal standards.
 
 #### Bias in Data
@@ -161,7 +170,10 @@ The scientific method is a systematic way of learning from experience and making
 Handling data in AI involves navigating various risks, from bias and misinformation to processing and legal restrictions. By employing strategies such as using multiple sources, ensuring diversity, checking reliability, adhering to organizational and legal standards, and applying the scientific method, these risks can be minimized. Understanding and mitigating these risks is essential for developing AI systems that are fair, reliable, and compliant with legal standards. As you continue to explore AI, keep these considerations in mind to ensure responsible and effective use of data.
 
 ### 4.4 Describe the Purpose and Use of Big Data
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s4_Stephen.bbc8cbad-08e6-4c8a-b8a7-a3a881788c82.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Big data refers to extremely large datasets that can be analyzed to reveal patterns, trends, and associations, especially relating to human behavior and interactions. In today's digital age, the importance of big data cannot be overstated. It plays a crucial role in various sectors, from business and healthcare to education and government. This article will explore the purpose and use of big data, focusing on its storage and use, understanding the user, improving processes, and enhancing the overall experience.
 
 #### Storage and Use
@@ -201,7 +213,10 @@ Finally, big data can significantly enhance the user experience. By leveraging d
 In conclusion, big data is a powerful tool that can drive significant insights and improvements across various domains. Its storage and use enable organizations to collect and analyze vast amounts of information. Understanding the user through big data allows for personalized experiences and better customer insights. Improving processes with big data leads to operational efficiencies and informed decision-making. Finally, leveraging big data enhances the overall user experience, making products and services more intuitive and user-friendly. Embracing big data can provide a competitive edge and foster innovation in any organization.
 
 ### 4.5 Explain Data Visualization Techniques and Tools
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s5_Joanna.be731235-194d-4c00-9395-49ad7541dbc7.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Data visualization is a powerful way to present information so that it is easy to understand and use. By transforming raw data into a visual format, we can make complex data more accessible and actionable. This section will explore different techniques and tools used in data visualization, including written, verbal, pictorial, sounds, dashboards, infographics, and virtual and augmented reality.
 
 #### Written Data Visualization
@@ -266,7 +281,10 @@ These technologies can provide unique insights and are particularly useful in fi
 Data visualization is crucial for making data understandable and actionable. By using a combination of written, verbal, pictorial, and sound techniques, along with advanced tools like dashboards, infographics, and VR/AR, we can present data in a way that supports effective decision-making. Each method has its strengths and can be chosen based on the audience's needs and the nature of the data. Understanding these techniques and tools will help you to communicate data more effectively in your academic and professional endeavors.
 
 ### 4.6 Describe Key Generative AI Terms
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s6_Stephen.c1b32026-027d-4e4c-b50c-00b3e8420dd5.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Understanding the terminology related to generative AI is crucial for grasping how these systems operate and their broader implications. This section will clarify key terms, providing a foundation for further exploration into the fascinating world of generative AI.
 
 #### Generative AI
@@ -327,7 +345,10 @@ The transformer is a neural network architecture that underpins most modern lang
 Understanding these key terms provides a solid foundation for exploring generative AI. From the basics of what generative AI is, to the specifics of how models process information and generate content, each term plays a vital role. As you continue to study and interact with generative AI, these definitions will help you navigate and appreciate the complexities and capabilities of these advanced systems.
 
 ### 4.7 describe the purpose and use of generative AI including large language models (LLMs)
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s7_Matthew.316daa18-4825-4530-9571-547b7e3a6d2e.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Generative AI is a fascinating and rapidly evolving field that has the potential to revolutionize how we interact with technology. This article will delve into the purpose and use of generative AI, with a special focus on large language models (LLMs). We will explore how these models are trained, how they generate human-like text, and the techniques used to refine their outputs.
 
 #### What is Generative AI?
@@ -390,7 +411,10 @@ Generative AI and LLMs are powerful tools that leverage vast amounts of data to 
 In this article, we've explored the purpose and use of generative AI, with a focus on LLMs. We've seen how these models are trained on large datasets to predict and generate human-sounding text. Techniques like prompt engineering and the principles of NLP further enhance their capabilities. As you continue to learn about AI, consider how these tools can be applied in various fields, and think about the ethical implications of generating content with AI. The future of generative AI is bright, and understanding its foundations will prepare you to engage with this exciting technology.
 
 ### 4.8 Describe how data is used to train AI in the machine learning process
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m4_s8_Joanna.171a8cc3-f476-4361-9ace-e5a73f1b03f0.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Machine learning is a fascinating field that allows computers to learn from data and improve over time. This process is crucial for developing intelligent systems that can make decisions, recognize patterns, and solve problems. In this article, we will explore the various stages involved in training AI through machine learning, emphasizing how data plays a pivotal role at each step.
 
 #### Stages of the Machine Learning Process

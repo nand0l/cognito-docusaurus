@@ -9,7 +9,10 @@ sidebar_position: 6
 As Artificial Intelligence (AI) continues to advance, it is reshaping the job market and creating new roles that require collaboration between humans and machines. Understanding these changes is essential for future career planning and for organizations to adapt to the evolving workforce. This section explores the new roles and career opportunities emerging from the integration of AI.
 
 ### 6.1 Describe the roles and career opportunities presented by AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m6_s1_Danielle.f1703a8e-2070-438e-92a8-bfe4b16c264b.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Exploring Career Opportunities in Artificial Intelligence
 
 Artificial Intelligence (AI) is transforming industries and creating new opportunities for professionals across various domains. This module aims to help students understand the diverse roles and career opportunities that AI presents. Whether you are interested in a specialized AI career or enhancing your existing role with AI skills, this guide will provide valuable insights.
@@ -69,7 +72,10 @@ AI is a rapidly evolving field with numerous career opportunities. Whether you a
 In conclusion, the future of work is increasingly intertwined with AI. Embracing this technology can lead to exciting new career paths and significant improvements in existing roles. By understanding the various opportunities AI presents, students can better prepare for a dynamic and evolving job market.
 
 ### 6.2 Identify AI uses in the real world
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m6_s2_Joanna.8fdb4289-76d4-4431-a9ed-5b53869fbf6a.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Artificial Intelligence (AI) is no longer a futuristic concept confined to science fiction. It is a powerful tool that is transforming various sectors in our daily lives. This section will help you identify and understand the practical uses of AI in the real world. By the end of this module, you will be able to describe how AI is applied in different sectors, enhancing efficiency and innovation.
 
 #### Marketing
@@ -135,7 +141,10 @@ AI tools and services are embedded in various sectors, transforming how we live 
 Reflect on how AI might further evolve in these sectors and consider the potential benefits and challenges it may bring. This knowledge will not only enhance your academic journey but also equip you with insights into the future of technology.
 
 ### 6.3 Explain AIs impact on society, and the future of AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m6_s3_Ruth.4f13987c-a5c2-4a94-bc26-0cc65231308d.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Artificial Intelligence (AI) is rapidly evolving, bringing significant changes to our world. This technological advancement offers numerous benefits and poses various challenges at the societal level. As students, it is essential to understand these impacts and the potential future of AI.
 
 #### Benefits of AI
@@ -194,7 +203,10 @@ The future of AI holds exciting possibilities:
 AI is a transformative technology with the potential to bring significant benefits to society, such as reducing human error and improving medical diagnosis. However, it also presents challenges, including ethical concerns, job displacement, and security risks. Understanding AI's societal, environmental, and economic impacts is crucial for preparing for its future. As AI continues to evolve, advancements in computing power, data availability, algorithms, and tools will shape its direction, offering new opportunities and challenges. Reflecting on these aspects helps us navigate the complexities of AI and harness its potential responsibly.
 
 ### 6.4 describe consciousness and its impact on ethical AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m6_s4_Joanna.fda93d3e-2965-42c2-9d15-8ab5de1487ff.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Understanding Consciousness and Its Impact on Ethical AI
 
 In the evolving landscape of technology, artificial intelligence (AI) has emerged as a groundbreaking field with the potential to revolutionize various aspects of human life. One of the most intriguing and complex topics within this domain is the concept of consciousness and its implications for ethical AI. This article aims to provide a comprehensive understanding of consciousness, both human and artificial, and explore the ethical challenges that arise from the development of conscious AI.

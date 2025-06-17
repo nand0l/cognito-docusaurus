@@ -9,7 +9,10 @@ sidebar_position: 2
 In the rapidly evolving landscape of Artificial Intelligence (AI), ethical and legal considerations are paramount. As AI systems become more integrated into our daily lives, it is crucial to address the potential impacts on society, ensuring that these technologies are developed and used responsibly. This section will explore the key ethical principles and legal frameworks that govern AI, providing a foundation for navigating the complexities of this field. Ethics are, how they differ from laws, and discuss various ethical concerns related to AI.
 
 ### 2.1 Describe Ethical Concerns, Including Bias and Privacy, in AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/m2s1_S1_polly/guides/temp-Matthew.7b369ea1-e372-44bb-bc5c-b522088284d0.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### What is Ethics?
 
 Ethics refers to the moral principles that govern a person's behavior or the conducting of an activity. In simpler terms, ethics is about what is right and wrong in human conduct. It helps us make decisions that are fair, just, and respectful of others.
@@ -59,7 +62,10 @@ AI offers tremendous opportunities, but it also raises several ethical concerns.
 AI presents incredible opportunities for innovation and improvement in various fields. However, it is essential to consider the ethical and legal implications of its use. Understanding ethics, differentiating them from laws, and being aware of the potential ethical concerns can help us navigate the challenges associated with AI. As future professionals, it is your responsibility to ensure that AI is developed and used in a manner that is ethical, fair, and beneficial to society.
 
 ### 2.2  Describe the importance of guiding principles in ethical AI development
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s2-Stephen.f35c9612-8435-4564-ba75-17b7d5bd34f8.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 In the rapidly evolving world of artificial intelligence (AI), it is crucial to develop and implement technologies responsibly. This module will explore the importance of guiding principles in ethical AI development, focusing on the UK AI principles and other relevant legislation. We will also discuss what ethics means in this context and how these principles impact the development and use of AI.
@@ -119,7 +125,10 @@ Understanding and applying these guiding principles is essential for the ethical
 In conclusion, guiding principles play a vital role in the ethical development and use of AI. By understanding and applying these principles, we can ensure that AI technologies are safe, secure, and beneficial for society. As future professionals in this field, it is essential to be aware of these principles and their impact on AI governance and ethics.
 
 ### 2.3 Explain strategies for addressing ethical challenges in AI projects
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s3_Matthew.64479d7d-9753-4fcb-b960-fc459aea9bff.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 Artificial Intelligence (AI) is transforming various sectors, from healthcare to finance, making our lives more convenient and efficient. However, with great power comes great responsibility. Ethical challenges in AI projects can arise at any stage, from data collection to deployment. This module aims to help you understand these challenges and the strategies to address them, ensuring that AI is developed and deployed responsibly and ethically.
@@ -237,7 +246,10 @@ As future professionals in the field of AI, it is your responsibility to uphold 
 - Commit to responsible and trustworthy AI practices.
 
 ### 2.4 Explain the role of regulation in AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s4_Joanna.9eb2df18-1260-4756-9393-55dccd4e819f.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 Artificial Intelligence (AI) is transforming various sectors, from healthcare to finance, making our lives more convenient and efficient. However, with great power comes great responsibility. To ensure AI is developed and used ethically and effectively, regulation plays a crucial role. This module will explore the need for regulation, the current regulatory landscape, and the consequences of unregulated AI.
@@ -294,7 +306,10 @@ Unregulated AI can pose safety risks, especially in critical applications like h
 Regulation is essential for the ethical and effective development and use of AI. It ensures that AI systems are accountable, transparent, and fair. By understanding the current regulatory landscape and the consequences of unregulated AI, we can advocate for better practices and policies in AI governance. As future professionals, it is crucial to stay informed about these regulations and contribute to the responsible use of AI.
 
 ### 2.5 explain the process of risk management in AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s5_Ruth.f0a0dc6d-8e94-4919-a8aa-8a8ea285c1e0.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 In the rapidly evolving world of artificial intelligence (AI), understanding and managing risks is crucial. This module will help you grasp the concept of risk management in AI, including various techniques and strategies to navigate AI-related regulations and standards. By the end of this module, you will be able to identify potential risks, apply risk management techniques, and implement risk mitigation strategies in the context of AI adoption.

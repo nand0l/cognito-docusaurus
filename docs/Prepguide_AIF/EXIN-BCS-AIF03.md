@@ -9,7 +9,10 @@ sidebar_position: 3
 Artificial Intelligence (AI) is rapidly transforming the way we live, work, and interact with technology. Understanding the enablers of AI helps us grasp how these technologies are developed and integrated into our daily lives. This article will explore three key enablers of AI and provide examples to illustrate their applications.
 
 ### 3.1 List common examples of AI
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m3_s1_Stephen.0c226eb4-e700-42e9-b617-8f2d16050cd3.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 To better understand AI, let's look at some common examples that you might encounter in everyday life. These examples demonstrate the versatility and impact of AI across various domains.
 
 #### a. Human-Compatible AI
@@ -61,7 +64,10 @@ Understanding the enablers of AI and recognizing examples in everyday life is cr
 Consider how AI impacts your daily life. Which of the examples mentioned above have you encountered? How do these AI applications make your life easier or more convenient? Reflect on the potential future developments in AI and how they might further transform our everyday experiences.
 
 ### 3.2 The Role of Robotics in Artificial Intelligence
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m3_s2_Joanna.b0f22447-b94d-434a-956d-e3240ca7bc30.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 In the rapidly evolving world of technology, robotics plays a crucial role in the field of Artificial Intelligence (AI). Understanding the relationship between robotics and AI is essential for students studying these subjects. This module will explore the definition of robots, the distinction between intelligent and non-intelligent robots, and the various types of robots that exist. Additionally, we will discuss Robotic Process Automation (RPA) and its significance in improving processes.
@@ -103,7 +109,10 @@ Understanding the role of robotics in AI is vital for students as it provides in
 As you progress in your studies, consider how robotics and AI can be applied in your field of interest. Whether it's improving industrial processes, assisting in personal tasks, or exploring new frontiers, the possibilities are endless. Embrace the learning journey and think about how you can contribute to the exciting world of robotics and AI.
 
 ### 3.3 Describe Machine Learning
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m3_s3_Matthew.d6ce5f7a-b0f9-4dc0-8745-9c5552997c27.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 #### Introduction
 
 In the rapidly evolving world of technology, machine learning stands out as a pivotal field that drives innovation across various industries. This module aims to provide a comprehensive understanding of machine learning, its components, and its applications. By the end of this section, students should have a clear grasp of what machine learning is, how it works, and its significance in the broader context of artificial intelligence (AI).
@@ -167,7 +176,10 @@ Machine learning represents a significant advancement in the field of artificial
 As you progress in your studies, consider how machine learning can be applied to solve real-world problems and think about the ethical implications of these technologies. The future of machine learning is bright, and your knowledge in this area will be invaluable in driving forward the next wave of technological innovation.
 
 ### 3.4 Identify Common Machine Learning Concepts
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m3_s4_Joanna.9f969494-68da-4a78-9b13-fda1407d5295.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Machine learning is a fascinating field that allows computers to learn from data and make decisions without being explicitly programmed. This module will explore some of the most common machine learning concepts, providing you with a foundational understanding of how these techniques work and where they are applied. By the end of this section, you will be able to identify and explain key machine learning concepts such as prediction, object recognition, classification, clustering, and recommendations.
 
 #### Prediction
@@ -212,7 +224,10 @@ In this module, we have explored several common machine learning concepts: predi
 Understanding these concepts is essential for anyone looking to delve deeper into the world of machine learning. As you continue your studies, consider how these techniques can be applied in real-world scenarios and think about the ethical implications of using machine learning in different contexts.
 
 ### 3.5 Describe Supervised and Unsupervised Learning
-
+<audio controls>
+  <source src="https://skillsoft-demo.net/polly/guides/m3_s5_Danielle.d2772d74-e25d-4493-9f73-4ed3140c5928.mp3" type="audio/mpeg"/>
+  Your browser does not support the audio element.
+</audio>
 Machine learning is a fascinating and rapidly evolving field that allows computers to learn from data and make decisions or predictions. To grasp how machine learning can be applied to various types of data, it's essential to understand the different approaches it encompasses. This article will delve into three primary types of machine learning: supervised learning, unsupervised learning, and semi-supervised learning.
 
 #### Supervised Learning
