@@ -10,7 +10,7 @@ In the rapidly evolving landscape of Artificial Intelligence (AI), ethical and l
 
 ### 2.1 Describe Ethical Concerns, Including Bias and Privacy, in AI
 <audio controls>
-  <source src="https://skillsoft-demo.net/m2s1_S1_polly/guides/temp-Matthew.7b369ea1-e372-44bb-bc5c-b522088284d0.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s1_Matthew.7b369ea1-e372-44bb-bc5c-b522088284d0.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 #### What is Ethics?
@@ -63,7 +63,7 @@ AI presents incredible opportunities for innovation and improvement in various f
 
 ### 2.2  Describe the importance of guiding principles in ethical AI development
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/m2_s2-Stephen.f35c9612-8435-4564-ba75-17b7d5bd34f8.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m2_s2_Stephen.f35c9612-8435-4564-ba75-17b7d5bd34f8.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 #### Introduction

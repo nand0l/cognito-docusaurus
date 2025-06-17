@@ -10,7 +10,7 @@ Welcome to the fascinating world of Artificial Intelligence (AI)! This module ai
 
 ### 1.1 Identify the key definitions of key AI terms
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/temp-Joanna.d8c27e20-50e2-489b-8741-a7ee553cca26.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m1_s1_Joanna.d8c27e20-50e2-489b-8741-a7ee553cca26.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 
@@ -77,7 +77,7 @@ Feel free to revisit these definitions as you progress. They will serve as a sol
 
 ### 1.2 describe key milestones in the development of AI
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/temp-Danielle.7cb6b06c-6525-401d-8de0-f061dd68e164.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m1_s2_Danielle.7cb6b06c-6525-401d-8de0-f061dd68e164.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 #### Introduction
@@ -134,7 +134,7 @@ By understanding these milestones, students can better appreciate the complexiti
 
 ### 1.3 describe different types of AI
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/temp-Ruth.1e5cc983-5ce6-47c9-bd08-719ea801b8eb.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m1_s3_Ruth.1e5cc983-5ce6-47c9-bd08-719ea801b8eb.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 Artificial Intelligence (AI) is a rapidly evolving field with various types and classifications. This module will explore the different types of AI, focusing on their capabilities, limitations, and potential future developments. Understanding these types is crucial for grasping the current state and future possibilities of AI technology.
@@ -232,7 +232,7 @@ Understanding the different types of AI helps us appreciate the current capabili
 
 ### 1.4 Explain the impact of AI on Society
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/temp-Matthew.949e92dd-7452-4c55-b98b-fc052ab3e825.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m1_s4_Matthew.949e92dd-7452-4c55-b98b-fc052ab3e825.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 #### Introduction
@@ -282,7 +282,7 @@ Understanding the impact of AI on society is crucial for students as they prepar
 
 ### 1.5 Sustainability Measures to Reduce AI’s Environmental Impact
 <audio controls>
-  <source src="https://skillsoft-demo.net/polly/guides/temp-Stephen.29d06f90-3dd1-437f-9a99-8ad4f88d3fea.mp3" type="audio/mpeg"/>
+  <source src="https://skillsoft-demo.net/polly/guides/m1_s5_Stephen.29d06f90-3dd1-437f-9a99-8ad4f88d3fea.mp3" type="audio/mpeg"/>
   Your browser does not support the audio element.
 </audio>
 Artificial Intelligence (AI) is transforming various sectors, from healthcare to transportation. However, the rapid growth of AI also brings significant environmental challenges. To address these issues, it is crucial to implement sustainability measures that reduce AI's environmental impact. This module explores six key strategies to make AI more eco-friendly.
